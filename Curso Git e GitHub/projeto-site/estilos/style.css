@@ -18,7 +18,13 @@ main{
 
 h1{
     font-size:2em ;
-    color: rgb(9, 9, 72);
+    color: rgb(141, 11, 181);
+    font-style: italic;
+}
+h2{
+    font-size:1.5em ;
+    color: rgb(238, 90, 16);
+    
 }
 
 img.lado{
