@@ -28,12 +28,13 @@ figure.foto-legenda figcaption{
     opacity: 0px;
     position: absolute;
     top: 0px;
-    background-color: rgba(0,0,0,0.4);
+    background-color: rgba(0,0,0,.4);
     width: 100%;
     height: 100%;
     color:white;
     padding: 10px;
     box-sizing: border-box;
+    transition: opacity 1s;
 }
 
 figure.foto-legenda:hover figcaption{
