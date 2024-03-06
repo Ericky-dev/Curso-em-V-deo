@@ -58,11 +58,10 @@ nav#menu ul li{
     margin: 2px;
     padding: 10px;
     border-radius: 10px 0px 10px 0px;
+    transition: background-color 1s;
 }
 
-nav#menu li {
-    background-color: blue;
-}
+
 
 nav#menu li:hover{
     background-color: aquamarine;
