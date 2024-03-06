@@ -57,7 +57,7 @@ nav#menu ul li{
     background-color: rgb(255, 255, 255);
     margin: 2px;
     padding: 10px;
-    border-radius: 15px;
+    border-radius: 10px 0px 0px 10px;
 }
 
 nav#menu h1{
