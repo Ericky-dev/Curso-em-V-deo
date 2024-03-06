@@ -10,8 +10,7 @@ body{
 div#interface{
     background-color: white;
     width: 900px;
-    top:-20px;
-    margin:10px auto 10px auto;
+    margin:-20px auto 10px auto;
 }
 
 p{
