@@ -37,6 +37,6 @@ figure.foto-legenda figcaption{
     transition: opacity 1s;
 }
 
-figure.foto-legenda:hover figcaption{
+figure.foto-legenda :hover figcaption{
     opacity: 1;
 }
