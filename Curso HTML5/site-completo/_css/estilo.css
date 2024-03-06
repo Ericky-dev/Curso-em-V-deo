@@ -54,8 +54,8 @@ nav#menu ul{
 nav#menu ul li{
     display: inline-block;
     text-decoration: none;
-    background-color: rgba(6, 6, 57, 0.516);
+    background-color: rgb(255, 255, 255);
     margin: 2px;
     padding: 10px;
-    color: #ffffff;
+    
 }
