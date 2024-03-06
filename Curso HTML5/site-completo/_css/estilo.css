@@ -7,6 +7,10 @@ body{
     background-color:rgb(227, 225, 225);
 }
 
+div#interface{
+    width: 800px;
+}
+
 p{
     text-align: justify;
     text-indent: 50px;
