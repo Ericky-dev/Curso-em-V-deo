@@ -69,10 +69,10 @@ nav#menu li:hover{
 nav#menu h1{
     display: none;
 }
-
 nav#menu a{
-    color:rgb(25, 10, 110);
     text-decoration: none;
-    font-family: Arial, Helvetica, sans-serif;
+}
+nav#menu a:hover{
+    color:white;
 }
 
