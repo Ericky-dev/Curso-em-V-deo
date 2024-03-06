@@ -51,4 +51,9 @@ nav#menu ul{
 
 nav#menu ul li{
     display: inline-block;
+    text-decoration: none;
+    background-color: blue;
+    margin: 2px;
+    padding: 10px;
+    
 }
