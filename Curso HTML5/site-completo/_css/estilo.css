@@ -59,11 +59,12 @@ nav#menu ul li{
     padding: 10px;
     border-radius: 10px 0px 10px 0px;
     transition: background-color 1s;
+    font: bold;
 }
 
 
 nav#menu li:hover{
-    font: bold;
+   
     background-color: aquamarine;
 }
 
