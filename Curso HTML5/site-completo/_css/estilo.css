@@ -60,7 +60,7 @@ nav#menu ul li{
     border-radius: 10px 0px 10px 0px;
 }
 
-nav#menu li a{
+nav#menu li {
     background-color: blue;
 }
 
