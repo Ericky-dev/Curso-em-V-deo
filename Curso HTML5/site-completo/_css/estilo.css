@@ -33,5 +33,5 @@ figure.foto-legenda figcaption{
     height: 100%;
     color:white;
     padding: 10px;
-    border: border-box;
+    box-sizing: border-box;
 }
