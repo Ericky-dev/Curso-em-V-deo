@@ -25,6 +25,7 @@ figure.foto-legenda img{
 }
 
 figure.foto-legenda fgcaption{
-   
     position: absolute;
+    top: 0px;
+    background-color: rgba(0,0,0,0.4);
 }
