@@ -42,3 +42,13 @@ figure.foto-legenda figcaption{
 figure.foto-legenda:hover figcaption{
     opacity: 1;
 }
+
+nav#menu ul{
+    list-style: none;
+    text-transform: uppercase;
+    
+}
+
+nav#menu ul li{
+    display: inline;
+}
