@@ -24,7 +24,7 @@ figure.foto-legenda img{
     height:100%;
 }
 
-figure.foto-legenda fgcaption{
+figure.foto-legenda figcaption{
     position: absolute;
     top: 0px;
     background-color: rgba(0,0,0,0.4);
