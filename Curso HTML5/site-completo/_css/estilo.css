@@ -63,7 +63,7 @@ nav#menu ul li{
 
 
 nav#menu li:hover{
-    font-family: Arial;
+    font: bold;
     background-color: aquamarine;
 }
 
