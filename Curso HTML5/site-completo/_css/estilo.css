@@ -4,10 +4,11 @@
 }
 
 body{
-    background-color:rgb(255, 255, 255);
+    background-color:rgb(189, 185, 185);
 }
 
 div#interface{
+    background-color: white;
     width: 800px;
     margin:10px auto 10px auto;
 }
