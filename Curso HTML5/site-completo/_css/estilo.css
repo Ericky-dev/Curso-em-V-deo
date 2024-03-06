@@ -25,7 +25,7 @@ figure.foto-legenda img{
 }
 
 figure.foto-legenda figcaption{
-    opacity: 0;
+    opacity: 0px;
     position: absolute;
     top: 0px;
     background-color: rgba(0,0,0,0.4);
@@ -34,4 +34,8 @@ figure.foto-legenda figcaption{
     color:white;
     padding: 10px;
     box-sizing: border-box;
+}
+
+figure.foto-legenda:hover figcaption{
+    opacity: 1;
 }
