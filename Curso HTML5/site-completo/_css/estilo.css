@@ -125,7 +125,7 @@ nav#menu ul{
 
 nav#menu ul li{
     display: inline-block;
-    font: bold;
+    font: bolder;
     text-decoration: none;
     background-color: rgb(226, 225, 232);
     margin: 2px;
