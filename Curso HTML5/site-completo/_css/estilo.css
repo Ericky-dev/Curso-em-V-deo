@@ -16,10 +16,12 @@ div#interface{
 }
 
 header#cabecalho img#icone{
-
     position:absolute;
     left:780px;
-    top:40;
+    top:40px;
+}
+header#cabecalho{
+
 }
 
 p{
