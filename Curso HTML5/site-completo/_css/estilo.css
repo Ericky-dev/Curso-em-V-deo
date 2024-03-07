@@ -80,7 +80,7 @@ p{
 }
 
 a{ 
-    font-family: Arial, Helvetica, sans-serif;
+    
     color: #2c06b6;
     text-decoration: none;
 }
@@ -125,6 +125,7 @@ nav#menu ul{
 
 nav#menu ul li{
     display: inline-block;
+    font: bold;
     text-decoration: none;
     background-color: rgb(226, 225, 232);
     margin: 2px;
