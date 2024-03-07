@@ -21,6 +21,7 @@ header#cabecalho img#icone{
     top:40px;
 }
 header#cabecalho{
+    border-bottom: 1px solid #606060;
 
 }
 
