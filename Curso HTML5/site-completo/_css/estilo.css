@@ -43,9 +43,29 @@ header#cabecalho h2{
     font-size: 15pt;
     color:#8888;
     padding: 0px;
-    margin-top: 0px;
-    
+    margin-top: 0px;   
 }
+
+header#cabecalho-artigo h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20pt;
+    color:#606060
+
+}
+
+.direita{
+    text-align: right;
+}
+
+header#cabecalho-artigo h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:13pt;
+    color:#cececece;
+    background-color: #ffffff;
+    margin:0px;
+}
+
+
 
 p{
     text-align: justify;
