@@ -188,7 +188,8 @@ aside#lateral{
 aside#lateral h1{
     font-family:'Fonte-Logo',sans-serif;
     font-size: 20pt;
-    color:#606060
+    color:#606060;
+    padding: 5px;
 }
 
 aside#lateral h2{
