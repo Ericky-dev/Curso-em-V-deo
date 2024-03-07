@@ -89,6 +89,7 @@ nav#menu ul{
     position: absolute;
     top:-20px;
     left: 450px;
+    border-right: 1px solid red;
 }
 
 nav#menu ul li{
@@ -123,7 +124,7 @@ section#corpo{
     width: 500px;
     float:left;
     border-right: 1px solid #606060;
-    
+    padding: 15px;
 }
 
 aside#lateral{
@@ -134,5 +135,6 @@ aside#lateral{
 
 footer#rodape{
     clear:both;
+    border-top: 1px solid #606060;
 }
 
