@@ -154,7 +154,7 @@ footer#rodape{
 
 table#tabelaspec caption{
     color:blueviolet;
-    font-size: 13px;
+    font-size: 18px;
     font-weight: bolder;
 }
 
@@ -163,6 +163,6 @@ table#tabelaspec caption span{
     float:right;
     color:black;
     font-size: 8px;
-    margin-bottom: 0px;
+    margin-top: 10px;
 }
 
