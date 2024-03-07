@@ -116,6 +116,11 @@ nav#menu a:hover{
     color:rgb(133, 14, 14);
 }
 
+nav#menu .linha{
+    border: 1px solid red;
+    height: 8px;
+}
+
 section#corpo{
     display: block;
     width: 500px;
