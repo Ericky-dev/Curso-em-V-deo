@@ -116,13 +116,6 @@ nav#menu a:hover{
     color:rgb(133, 14, 14);
 }
 
-nav#menu  ul li .linha{
-    border: 1px solid red;
-    height: 8px;
-    position:absolute;
-    float: right;
-
-}
 
 section#corpo{
     display: block;
