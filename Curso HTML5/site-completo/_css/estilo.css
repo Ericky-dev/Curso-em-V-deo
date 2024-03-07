@@ -115,6 +115,7 @@ figure.foto-legenda:hover figcaption{
 }
 
 nav#menu ul{
+    font: bolder;
     list-style: none;
     text-transform: uppercase;
     position: absolute;
@@ -125,7 +126,6 @@ nav#menu ul{
 
 nav#menu ul li{
     display: inline-block;
-    font: bolder;
     text-decoration: none;
     background-color: rgb(226, 225, 232);
     margin: 2px;
