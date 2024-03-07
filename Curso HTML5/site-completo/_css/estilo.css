@@ -77,6 +77,11 @@ p{
     
 }
 
+a{
+    color: #606060;
+    text-decoration: none;
+}
+
 figure.foto-legenda{
     position: relative;
     border:8px solid white;
