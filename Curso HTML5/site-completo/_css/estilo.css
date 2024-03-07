@@ -115,7 +115,6 @@ figure.foto-legenda:hover figcaption{
 }
 
 nav#menu ul{
-    font: bolder;
     list-style: none;
     text-transform: uppercase;
     position: absolute;
@@ -181,6 +180,9 @@ aside#lateral{
     display: block;
     width: 300px;
     float:right;
+    background-color: #dddddd;
+    margin:10px;
+    padding: 10px;
 }
 
 aside#lateral h1{
