@@ -118,3 +118,15 @@ nav#menu a:hover{
     color:rgb(133, 14, 14);
 }
 
+section#corpo{
+    display: block;
+    width: 500px;
+    float:left;
+}
+
+aside#lateral{
+    display: block;
+    width: 300px;
+    float:right;
+}
+
