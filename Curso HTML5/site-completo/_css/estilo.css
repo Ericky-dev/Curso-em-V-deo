@@ -116,13 +116,19 @@ nav#menu a:hover{
     color:rgb(133, 14, 14);
 }
 
-
 section#corpo{
     display: block;
     width: 500px;
     float:left;
     border-right: 1px solid #606060;
     padding: 15px;
+}
+
+article#noticia-principal{
+    font-size: 12pt;
+    color:#606060;
+    background-color: #dddddd;
+    padding: 5px 0px 0px 5px;
 }
 
 table#tabelaspec{
