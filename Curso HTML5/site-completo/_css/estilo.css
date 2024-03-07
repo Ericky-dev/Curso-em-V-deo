@@ -79,7 +79,7 @@ p{
     
 }
 
-a{
+a{ font:bold;
     color: #2c06b6;
     text-decoration: none;
 }
