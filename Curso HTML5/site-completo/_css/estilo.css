@@ -79,7 +79,8 @@ p{
     
 }
 
-a{ font:bolder;
+a{ 
+    font-family: Arial, Helvetica, sans-serif;
     color: #2c06b6;
     text-decoration: none;
 }
