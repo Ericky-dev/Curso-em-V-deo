@@ -124,7 +124,7 @@ section#corpo{
     padding: 15px;
 }
 
-article#noticia-principal{
+article#noticia-principal h2{
     font-size: 12pt;
     color:#606060;
     background-color: #dddddd;
