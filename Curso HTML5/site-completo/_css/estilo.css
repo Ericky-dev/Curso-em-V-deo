@@ -128,7 +128,13 @@ section#corpo{
     padding: 15px;
 }
 
+table#tabelaspec{
+    border: 2px solid green;
+}
 
+table#tabelaspec td{
+    border: 2px solid green;
+}
 
 aside#lateral{
     display: block;
