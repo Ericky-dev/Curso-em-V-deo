@@ -109,6 +109,7 @@ nav#menu ul li.linha-vertical{
     border: 1px solid blue;
     width: 2px;
     height: 5px;
+    padding: 8px;
 }
 
 nav#menu li:hover{
