@@ -89,7 +89,7 @@ nav#menu ul{
     position: absolute;
     top:-20px;
     left: 450px;
-    border-right: 1px solid red repeat-x;
+    
 }
 
 nav#menu ul li{
@@ -100,6 +100,7 @@ nav#menu ul li{
     padding: 10px;
     border-radius: 10px 0px 10px 0px;
     transition: background-color 1s;
+    border-right: 1px solid red;
    
 }
 
