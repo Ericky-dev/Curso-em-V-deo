@@ -15,7 +15,12 @@ div#interface{
     padding: 10px;
 }
 
+header#cabecalho img#icone{
 
+    position:absolute;
+    left:780px;
+    top:40;
+}
 
 p{
     text-align: justify;
