@@ -104,7 +104,8 @@ nav#menu ul li{
    
 }
 
-nav#menu ul li.linha{
+nav#menu ul li.linha-vertical{
+    display: block;
     border: 1px solid blue;
     width: 2px;
     height: 5px;
