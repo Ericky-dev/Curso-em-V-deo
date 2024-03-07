@@ -100,15 +100,9 @@ nav#menu ul li{
     padding: 10px;
     border-radius: 10px 0px 10px 0px;
     transition: background-color 1s;
-   
+    border-right: 1px solid red line-style 5px;
    
 }
-
-nav#menu  li#separador{
-     border-right: 1px solid red;
-     padding-left: 5px;
-}
-
 
 nav#menu li:hover{
    
