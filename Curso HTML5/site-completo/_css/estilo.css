@@ -119,6 +119,9 @@ nav#menu a:hover{
 nav#menu  ul li .linha{
     border: 1px solid red;
     height: 8px;
+    position:absolute;
+    float: right;
+
 }
 
 section#corpo{
