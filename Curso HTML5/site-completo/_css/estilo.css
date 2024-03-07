@@ -104,6 +104,10 @@ nav#menu ul li{
    
 }
 
+nav#menu ul li.linha{
+    border-style: 1px solid blue;
+}
+
 nav#menu li:hover{
    
     background-color: aquamarine;
