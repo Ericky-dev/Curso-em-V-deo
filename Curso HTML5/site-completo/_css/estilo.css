@@ -200,6 +200,11 @@ aside#lateral h2{
 
 }
 
+aside#lateral p{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 5px;
+}
+
 footer#rodape{
     font-family: Arial, Helvetica, sans-serif;
     color: #676565fd;
