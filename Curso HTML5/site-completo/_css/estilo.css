@@ -127,8 +127,8 @@ nav#menu ul li{
     display: inline-block;
     text-decoration: none;
     background-color: rgb(226, 225, 232);
-    margin: 2px;
-    padding: 12px;
+    margin: 5px;
+    padding: 10px;
     border-radius: 10px 0px 10px 0px;
     transition: background-color 1s;
 }
