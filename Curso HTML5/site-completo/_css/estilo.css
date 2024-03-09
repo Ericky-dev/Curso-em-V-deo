@@ -134,7 +134,7 @@ nav#menu ul li{
 }
 
 nav#menu ul li span{
-    display:none;
+    
     border: 5px solid red;
 }
 
