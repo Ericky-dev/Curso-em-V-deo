@@ -135,7 +135,7 @@ nav#menu ul li{
 
 nav#menu ul li span{
     position: absolute;
-    margin: 0px 5px 0px 0px;
+    margin: 0px 0px 0px 5px;
     color: red;
 
 }
