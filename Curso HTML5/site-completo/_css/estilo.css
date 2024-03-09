@@ -134,8 +134,8 @@ nav#menu ul li{
 }
 
 nav#menu ul li span{
-    
-    border: 5px solid red;
+    float:right;
+    color: red;
 }
 
 
