@@ -134,7 +134,7 @@ nav#menu ul li{
 }
 
 nav#menu ul li span{
-
+    padding-right: 2px;
     border: 3px solid red;
 }
 
