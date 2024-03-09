@@ -134,9 +134,10 @@ nav#menu ul li{
 }
 
 nav#menu ul li.separador{
-    display:block;
+    display:none;
     border: 2px solid red;
     padding-right: 5px;
+    float:right;
 }
 
 
