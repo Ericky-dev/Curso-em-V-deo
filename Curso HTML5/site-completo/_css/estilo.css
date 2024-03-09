@@ -134,7 +134,7 @@ nav#menu ul li{
 }
 
 nav#menu ul li:not(:last-child) {
-    border: 5px solid #5f0a0a; /* Cor e estilo da borda */
+    border-right: 5px solid #5f0a0a; /* Cor e estilo da borda */
     padding: 0px 0px 0px 10px; /* Espaçamento entre o texto e a borda */
 }
 
