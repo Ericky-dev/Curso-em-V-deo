@@ -134,9 +134,10 @@ nav#menu ul li{
 }
 
 nav#menu ul li span{
-    position: relative;
-    float:left;
+    padding: 0px 5px 0px 0px;
+    float:right;
     color: red;
+
 }
 
 
