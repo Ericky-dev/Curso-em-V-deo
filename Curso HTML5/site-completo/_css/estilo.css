@@ -15,7 +15,7 @@ body{
 div#interface{
     background-color: white;
     width: 840px;
-    margin:20px auto 10px auto;
+    margin:15px auto 10px auto;
     box-shadow: 0px 0px 10px black;
     padding: 10px;
     
@@ -120,7 +120,7 @@ nav#menu ul{
     list-style: none;
     text-transform: uppercase;
     position: absolute;
-    top:-20px;
+    top:-15px;
     left: 430px;
     
 }
