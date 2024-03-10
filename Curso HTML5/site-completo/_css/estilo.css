@@ -9,7 +9,6 @@
 body{
     background-color:rgb(189, 185, 185);
     font-family: Arial, Helvetica, sans-serif;
-    margin-top:10px;
 }
 
 div#interface{
@@ -17,7 +16,7 @@ div#interface{
     width: 840px;
     margin:-20px auto 10px auto;
     box-shadow: 0px 0px 10px black;
-    padding: 10px;
+    padding: 20px 0px 0px 10px;
     
 }
 
