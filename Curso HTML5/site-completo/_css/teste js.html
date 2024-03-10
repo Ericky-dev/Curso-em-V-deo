@@ -18,7 +18,11 @@
         </script>
 
             <h2>Acendendo a Lâmpada</h2>
-        <img src="../_imagens/lampada-apagada.jpg" alt="" onclick="acendeLampada()"/>
+
+            <script>
+                document.getElementById("luz").src="../_imagens/lampada-acesa.jpg";
+            </script>
+        <img src="../_imagens/lampada-apagada.jpg" id="luz" alt="" onmouseover="acendeLampada()"/>
         
 </body>
 </html>
