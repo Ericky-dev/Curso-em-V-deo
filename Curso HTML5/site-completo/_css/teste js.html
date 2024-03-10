@@ -9,6 +9,9 @@
         function acendeLampada(){
             document.getElementById("luz").src="../_imagens/lampada-acesa.jpg";
         }
+        function apagaLampada(){
+            document.getElementById("luz").src="../imagens/lampada-apagada.jpg"
+        }
     </script>
 </head>
 <body>
@@ -19,7 +22,7 @@
 
             <h2>Acendendo a Lâmpada</h2>
 
-        <img src="../_imagens/lampada-apagada.jpg" id="luz" alt="" onmouseover="acendeLampada()"/>
+        <img src="../_imagens/lampada-apagada.jpg" id="luz" alt="" onmouseover="acendeLampada()" onmouseout="apagaLampada()"/>
         
 </body>
 </html>
