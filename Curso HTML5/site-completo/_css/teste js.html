@@ -7,7 +7,7 @@
     
     <script>
         function acendeLampada(){
-            alert('Lâmpada Acendeu!!!');
+            document.getElementById("luz").src="../_imagens/lampada-acesa.jpg";
         }
     </script>
 </head>
@@ -19,9 +19,6 @@
 
             <h2>Acendendo a Lâmpada</h2>
 
-            <script>
-                document.getElementById("luz").src="../_imagens/lampada-acesa.jpg";
-            </script>
         <img src="../_imagens/lampada-apagada.jpg" id="luz" alt="" onmouseover="acendeLampada()"/>
         
 </body>
