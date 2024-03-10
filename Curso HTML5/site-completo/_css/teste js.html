@@ -12,6 +12,9 @@
         function apagaLampada(){
             document.getElementById("luz").src="../_imagens/lampada-apagada.jpg"
         }
+        function quebraLampada(){
+            document.getElemetById("luz".src="../_imagens/Lampada-quebrada.jpg");
+        }
     </script>
 </head>
 <body>
@@ -22,7 +25,7 @@
 
             <h2>Acendendo a Lâmpada</h2>
 
-        <img src="../_imagens/lampada-apagada.jpg" id="luz" alt="" onmousemove="acendeLampada()" onmouseout="apagaLampada()"/>
+        <img src="../_imagens/lampada-apagada.jpg" id="luz" alt="" onmousemove="acendeLampada()" onmouseout="apagaLampada()" onmousemove="quebraLampada()"/>
         
 </body>
 </html>
