@@ -18,11 +18,13 @@
 
             if(tipo  == 3){
                 arquivo = "../_imagens/lampada-quebrada.jpg";
-                quebrada = true;
             }
 
             if(!quebrada){
                 document.getElementById("luz").src = arquivo;
+                if(tipo == 3){
+                    quebrada = true;
+                }
             }
         }
         // function apagaLampada(){
