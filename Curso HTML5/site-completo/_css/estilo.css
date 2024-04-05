@@ -32,21 +32,13 @@ header#cabecalho{
     background: url("../_imagens/glass-logo-peq.jpg") no-repeat 0px 80px;
 }
 
-header#cabecalho h1{
-    font-family: 'FonteLogo',Arial, Helvetica, sans-serif;
-    font-size: 30pt;
-    color:#606060;
-    text-shadow: 1px 1px 1px rgba(0,0,0,.6) ;
-    padding: 0px;
-    margin-bottom:0px;
 
-}
 header#cabecalho h2{
     font-family: Arial, Helvetica, sans-serif;
     font-size: 15pt;
     color:#8888;
     padding: 0px;
-    margin-top: 0px;   
+    margin: 0px 0px 0px 10px;   
 }
 
 header#cabecalho-artigo h1{
@@ -58,12 +50,6 @@ header#cabecalho-artigo h1{
 
 }
 
-.direita{
-    text-align: right;
-    font-size: 13pt;
-    margin-bottom: 0px;
-}
-
 header#cabecalho-artigo h2{
     font-family: Arial, Helvetica, sans-serif;
     font-size:13pt;
@@ -72,14 +58,28 @@ header#cabecalho-artigo h2{
     margin:0px;
 }
 
+header#cabecalho-artigo h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:13pt;
+    color:#cececece;
+    background-color: #ffffff;
+    margin:0px 0xp 0xp 5px;
+}
+
+
+.direita{
+    text-align: right;
+    font-size: 13pt;
+    margin-bottom: 0px;
+}
 
 
 p{
     text-align: justify;
     text-indent: 30px;
     font-size: 18px;
-    
 }
+
 
 a{ 
     
@@ -199,11 +199,13 @@ aside#lateral{
 }
 
 aside#lateral h1{
+    display: block;
     font-family:'Fonte-Logo',sans-serif;
     font-size: 20pt;
     color:#606060;
-    margin-top:-10px;
+    margin:-10px 0px 0px 0px;
     padding: 10px;
+    position: relative;
 }
 
 aside#lateral h2{
@@ -211,37 +213,58 @@ aside#lateral h2{
     background-color: #923535;
     font-size: 13pt;
     color:#ffffff;
-    margin:0px 0px 30px 0px;
+    margin:1px 3px -45px 2px;
     padding: 5px 0px 5px 10px;
     position: relative;
 
 }
 
-
 aside#lateral h3{
-    font-size: 14pt;
+    display: block;
+    height: 55px;
+    font-size: 12pt;
     color:#606060;
-    margin:10px;
+    background-color: aquamarine;
+    margin:50px 5px 0px 5px;
     padding: 10px;
+    position: relative;
 
 }
 aside#lateral h5{
+    display: block;
+    position: relative;
     font-size: 15px;
     color:#6707f7;
     text-align: end;
     text-decoration: underline;
-    margin-top: 0px;
+    margin: -18px 0px 5px 0px;
+    padding:0px 8px 0px 0px;
     
+}
 
+aside#lateral p{
+    margin: 60px 5px 20px 5px;
+    text-align: justify;
+    font-size: 18px;
+}
+#img-lateral{
+    display: block;
+    position: relative;
+    width: 350px;
+    height: 300px;
+    left: 4px;
+    margin:0px 0px -50px 0px;
+    padding: 5px 0px 0px 0px;
 }
 
 
 
 footer#rodape{
     font-family: Arial, Helvetica, sans-serif;
-    color: #676565fd;
+    color: #f7f5f5fd;
     clear:both;
-    border-top: 1px solid #606060;
+    background-color:#192776 ;
+    border-top: 1px solid #192776;
     text-align: center;
     padding: 10px;
 }
